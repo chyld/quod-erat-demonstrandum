@@ -1,1 +1,1 @@
-# quod-erat-demonstrandum
+# quod-erat-demonstrandum, i.e., Q.E.D.
